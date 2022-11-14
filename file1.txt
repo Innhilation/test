@@ -4,4 +4,7 @@ u5io2
 Add line
 My new line
 addmy new feature was added by me.
+<<<<<<< HEAD
 perfect line
+=======
+>>>>>>> 0221698f2070e11c3c8eb31db267df07ce6d6ea2
