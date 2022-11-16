@@ -1,16 +1,2 @@
 testing line update
-untesting file
-permition
-u5io2
-Add line
-My new line
-addmy new feature was added by me.
-<<<<<<< HEAD
-perfect line
-=======
->>>>>>> 0221698f2070e11c3c8eb31db267df07ce6d6ea2
-line
-line
-new branch line
-from guisome special needs
-some intervent
+SO new branch was created for special-app
