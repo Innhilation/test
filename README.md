@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">QA Engineer from Russia 🇷🇺</h3>
 
-<h2 align="center">Greetings, this is my branch of the new experience of testing. In a way, you've reading "readme" file which literally clone of my CV .</h3>
+<h2 align="center">Greetings, this is my branch of the new experience of testing. In a way, you've reading "readme" file which literally clone of my CV.</h3>
 
 I've been worked with web apps, testing some parts of rest api;
 <br>Worked with artifacts: check list, test cases;</br>
