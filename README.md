@@ -9,5 +9,5 @@ I've been worked with web apps, testing some parts of rest api;
 Manual testing(Smoke,Functional, Regression);
 <br>Reporting bugs in the bugtracking system "Jira";</br>
 i'm used to Agile;
-<br>Extra stack: Git, GitHub, sniffer like a "Charles", Bash, MySQL requests, Postman, Devtools</br>
+<br>Extra stack: Git, GitHub, sniffer like a "Charles", Bash, MySQL requests, Postman, Devtools;</br>
 Thank you for reading this whole thing.
